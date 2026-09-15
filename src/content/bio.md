@@ -1,8 +1,9 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Pierre-François Massiani"
+avatar: "avatar.jpg"
+shortBio: "Mines Paris engineer\n Computer science Ph.D. "
+institution: "RWTH Aachen"
+location: "Paris, France"
 ---
 
 I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.

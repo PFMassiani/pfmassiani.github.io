@@ -3,6 +3,7 @@ export interface Bio {
     avatar: string;
     shortBio?: string;
     institution?: string;
+    location?: string;
 }
 
 export interface CVItem {

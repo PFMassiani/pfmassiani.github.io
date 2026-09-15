@@ -464,6 +464,7 @@ a:hover,
     opacity: 0.8;
     line-height: 1.5;
     padding: 0 0.5rem;
+    white-space: pre-line;
 }
 
 /* Navbar */

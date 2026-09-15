@@ -60,6 +60,7 @@ const bio = defineCollection({
         avatar: z.string(),
         shortBio: z.string().optional(),
         institution: z.string().optional(),
+        location: z.string().optional(),
     }),
 });
 

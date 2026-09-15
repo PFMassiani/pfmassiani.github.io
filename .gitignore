@@ -1,5 +1,5 @@
 .vscode
-
+example_contents/
 scripts/gen-favicon/favicons/
 
 # build output

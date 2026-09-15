@@ -27,8 +27,8 @@ const bio = bioCollection[0]?.data;
             {bio?.name && <h1 class="sidebar-name">{bio.name}</h1>}
             {bio?.institution && (
                 <p class="sidebar-info">
-                    <Icon name="Institution" size={24} />
-                    {bio.institution}
+                    <Icon name="Location" size={24} />
+                    {bio.location}
                 </p>
             )}
             {bio?.shortBio && (
