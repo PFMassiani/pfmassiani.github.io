@@ -18,7 +18,8 @@ I then joined <a href='https://www.dsme.rwth-aachen.de/cms/~ibtrg/dsme/?lidx=1'>
 ## Current Work
 
 While my Ph.D. focused mainly on theory and statistics, I am now intensively learning about LLMs and large scale inference.
-My goal is to understand how this (now) unavoidable technology works in details, and how my skills in anytime-valid statistics can help improve it; e.g., by monitoring it at deployment or smart benchmarking.
+My goal is to understand how this (now) ubiquitous technology works in details, and how my skills in anytime-valid statistics can help improve it; e.g., by monitoring it at deployment or smart benchmarking.
+I am also strongly interested not only in developing language models, but also in applying AI methods to challenging and/or socially relevant problems, such as medical applications.
 
 Concretely, I am now following <a href='https://cs336.stanford.edu/'>Stanford's CS336 course, "Language Modeling from Scratch"</a>, which aims at providing a comprehensive understanding of language models by developing one from scratch.
 I am also studying <a href='https://huggingface.co/spaces/nanotron/ultrascale-playbook'>"The Ultra Scale Playbook: Training LLMs on GPU Clusters", by Tazi et al., 2025</a>, to get familiar with challenges of scaling up.
